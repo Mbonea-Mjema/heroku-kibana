@@ -10,7 +10,7 @@ You can now easily launch Kibana your Bonsai cluster dashboard if your cluster's
 
 Run Kibana 5 or 6 on Heroku with one click. Brought to you by [Bonsai: Hosted Elasticsearch](https://bonsai.io/).
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)]
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Note on Kibana 5.x
 
